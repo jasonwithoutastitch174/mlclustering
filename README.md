@@ -11,7 +11,7 @@
 
 **An interactive web app for exploring popular unsupervised learning algorithms — clustering and dimensionality reduction — on your own data or built-in samples.**
 
-[Report Bug](https://github.com/alfredang/mlclustering/issues) · [Request Feature](https://github.com/alfredang/mlclustering/issues)
+[🚀 Live Demo](https://mlclustering-888.streamlit.app/) · [Report Bug](https://github.com/alfredang/mlclustering/issues) · [Request Feature](https://github.com/alfredang/mlclustering/issues)
 
 </div>
 
